@@ -32,4 +32,6 @@ revertir cambios de los archivos
 -git diff 
 ver la diferencias hechas por en los archivos
 
+-git push -u origin master
+
 
