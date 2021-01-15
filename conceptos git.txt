@@ -20,6 +20,10 @@ te traes los cambios de otros desarroladores
 -git clone
 una copia del servidor central hacia tu computadora
 
+git add README.md
+mensaje de leeame
+
+
 -git log 
 
 para ver todos los commits que hemos creados
@@ -36,3 +40,17 @@ ver la diferencias hechas por en los archivos
 
 
 -git clone <link>
+
+
+-git branch -m <nombre de la rama> <nombre nuevo de la rama>
+comando para cmabiar el nombre del branch
+
+-git branch -d <nombre de la rama a elimnar> si quieres que lo elimine si o si usa D mayuscula
+
+
+si quieres ayuda de algo solo escribir la -h
+
+ejemplo
+git branch -h
+git diff -h
+git checkout -h 
