@@ -1,0 +1,35 @@
+Sistema de control de versiones
+
+-git init
+iniciar git
+
+-git add
+
+
+-git status
+
+-git commit
+crear una primera captura
+
+-git push
+subir a un servidor
+
+-git pull
+te traes los cambios de otros desarroladores
+
+-git clone
+una copia del servidor central hacia tu computadora
+
+-git log 
+
+para ver todos los commits que hemos creados
+
+
+-git checkout -- <file> o git restore -- <file>
+
+revertir cambios de los archivos
+
+-git diff 
+ver la diferencias hechas por en los archivos
+
+
