@@ -35,3 +35,4 @@ ver la diferencias hechas por en los archivos
 -git push -u origin master
 
 
+-git clone <link>
